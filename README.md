@@ -1,8 +1,7 @@
-# ISMS-
-ISMS Information security standard in Urdu 
+# ISMS - ISMS Information security standard in Urdu 
+
 Introduction 
- 
-This is a small effort towards excellence and understanding of ISO ( International standard organization) ISMS 27001 Information security management system in urdu language. 
+ This is a small effort towards excellence and understanding of ISO ( International standard organization) ISMS 27001 Information security management system in urdu language. 
 Urdu language is one of the oldest languages; this standard is de facto base line for information security of any organization in cyber security.
 
 The idea behind urdu translation to give urdu readers a taste of what this standard can say and help them to achieve excellence in information security of their organization.
